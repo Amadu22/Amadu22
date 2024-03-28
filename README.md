@@ -1,9 +1,13 @@
-### Hi there 👋
+<h1>Hi, I'm Amadu! 
+  Aspiring Cybersecurity analyst
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
-<!--
-**Amadu22/Amadu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+<h2>  Certification </h2>
+
+<h2> 🤳 Connect with me:</h2>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
